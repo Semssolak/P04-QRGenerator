@@ -82,14 +82,3 @@ status_label.grid(row=5, column=0, columnspan=2)
 status_label.config(background="#7f86ff")
 
 my_window.mainloop()
-
-
-
-
-
-
-
-"""url = input("enter url to generate qr code: ")
-
-qr_code = pyqrcode.create(url)
-qr_code.svg('qrcode.svg',scale=5)"""
